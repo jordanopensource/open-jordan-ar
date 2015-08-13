@@ -82,7 +82,7 @@
 
 /*	Blockquotes  */
 	blockquote, blockquote p { font-size: 17px; line-height: 24px; color: #777; font-style: italic; }
-	blockquote { margin: 0 0 20px; padding: 9px 20px 0 19px; border-left: 1px solid #ddd; }
+	blockquote { margin: 0 0 20px; padding: 9px 19px 0 20px; border-right: 1px solid #ddd; }
 	blockquote cite { display: block; font-size: 12px; color: #555; }
 	blockquote cite:before { content: "\2014 \0020"; }
 	blockquote cite a, blockquote cite a:visited, blockquote cite a:visited { color: #555; }
@@ -209,16 +209,16 @@
 td.linenos { width: 40px; }
 
 .linenodiv {
-  border-right: none;
+  border-left: none;
   padding: 10px;
-  text-align: right;
+  text-align: left;
 }
 span.lineno {
   display: block;
-  float: left;
+  float: right;
   width: 40px;
-  padding-right: 8px;
-  text-align: right;
+  padding-left: 8px;
+  text-align: left;
 }
 
 
