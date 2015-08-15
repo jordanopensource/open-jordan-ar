@@ -392,6 +392,16 @@ style: left
               </a>
             </div>
             <div class="media-body">
+              <h4 class="media-heading">داليا خصاوتة )مساحة مكان(</h4>
+            </div>
+          </div>
+          <div class="media">
+            <div class="media-left">
+              <a href="#">
+                <img class="media-object img-circle" src="{{ site.baseurl }}/img/speakers/dalia.png">
+              </a>
+            </div>
+            <div class="media-body">
               <h4 class="media-heading">سامر<br>عطياني</h4>
             </div>
           </div>
